@@ -38,7 +38,6 @@ public class Watchlist {
         }
     }
       
-
     public void loadFromFile(String fileName) {
         try {
             FileInputStream fileIn = new FileInputStream(fileName);
